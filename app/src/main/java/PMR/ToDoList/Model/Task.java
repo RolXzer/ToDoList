@@ -39,7 +39,6 @@ public class Task {
 
     }
 
-    String PierrickDeuxieme;
-
+    String romainDeuxieme;
 
 }
