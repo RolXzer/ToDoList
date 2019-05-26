@@ -38,17 +38,5 @@ public class Task {
         return ("Item : "+ this.getDescription() + " - Fait : " +this.getFait().toString());
 
     }
-
-    String jeSuisLeMaitre;
-
-    String premierGitHub;
-
-    String deuxiemeEsai;
-
-    String troisiemeEssai;
-
-    String quatre;
-
-
-
+    
 }
