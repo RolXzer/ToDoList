@@ -47,6 +47,8 @@ public class Task {
 
     String troisiemeEssai;
 
+    String quatre;
+
 
 
 }
