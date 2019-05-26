@@ -38,6 +38,7 @@ public class Task {
         return ("Item : "+ this.getDescription() + " - Fait : " +this.getFait().toString());
 
     }
-    
+
+    String troisieme;
 
 }
