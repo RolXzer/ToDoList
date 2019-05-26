@@ -43,6 +43,8 @@ public class Task {
 
     String premierGitHub;
 
+    String deuxiemeEsai;
+
     String troisiemeEssai;
 
 
