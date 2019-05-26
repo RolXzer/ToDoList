@@ -42,4 +42,6 @@ public class Task {
 
     String premierGitHub;
 
+    String deuxiemeGitHub;
+
 }
