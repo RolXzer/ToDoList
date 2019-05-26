@@ -44,4 +44,6 @@ public class Task {
 
     String deuxiemeGitHub;
 
+    String quatrieme;
+
 }
