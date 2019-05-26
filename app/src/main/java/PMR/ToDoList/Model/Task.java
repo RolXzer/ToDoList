@@ -39,4 +39,7 @@ public class Task {
 
     }
 
+
+    String niquetarace;
+
 }
